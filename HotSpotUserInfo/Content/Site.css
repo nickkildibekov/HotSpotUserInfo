@@ -22,3 +22,17 @@ select,
 textarea {
     max-width: 280px;
 }
+
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+
+.note {
+    font-size: .8em;
+}
